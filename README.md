@@ -1,5 +1,5 @@
 # GLMAM
-he MATLAB code of the paper "Global and local attention-based multi-label learning with missing labels"
+The MATLAB code of the paper "Global and local attention-based multi-label learning with missing labels"
 # Citation
 @article{Cheng-2022-GLMAM,  
     author		= {Yu-Sheng Cheng and Kun Qian and Fan Min},  
