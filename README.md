@@ -2,7 +2,7 @@
 The MATLAB code of the paper "Global and local attention-based multi-label learning with missing labels"
 # Citation
 @article{Cheng-2022-GLMAM,  
-    author		= {Yu-Sheng Cheng and Kun Qian and Fan Min},  
+    author		= {Yusheng Cheng and Kun Qian and Fan Min},  
     title		  = {Global and local attention-based multi-label learning with missing labels},  
     journal		= {Information Sciences},  
     year		  = {2022},  
